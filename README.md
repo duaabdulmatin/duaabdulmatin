@@ -9,7 +9,7 @@ Currently, I am the founder and lead developer of **Neutral Memory Protocol (NMP
 
 - 🌱 New to computer science and software development, yet passionate and persistent  
 - 💻 Actively expanding my skills in programming, protocols, and open-source collaboration  
-- 📫 You can reach me at: [your-email@example.com](mailto:duaabdulmatin@gmail.com)
+- 📫 You can reach me at: [duaabdulmatin@gmail.com](mailto:duaabdulmatin@gmail.com)
 
 ---
 
